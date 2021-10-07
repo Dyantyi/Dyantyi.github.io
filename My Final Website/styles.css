@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Signika+Negative:400,700);
+
+.header{
+background:black;
+padding:5px;
+}		
+
+.test{
+	align-items: center;
+	display: flex;
+}	
+
+html, body {
+  height:100%;
+  font-family: 'Signika Negative', sans-serif;
+  font-size: 25px;
+}
+
+h1{color:black;font:Cooper-black}  
+
+body{color:white;background:black;paragraph:center}
